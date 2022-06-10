@@ -1,3 +1,5 @@
+[![Build status](https://build.appcenter.ms/v0.1/apps/31e2e284-7e6b-4ec5-8734-13fd8e7bf568/branches/master/badge)](https://appcenter.ms)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
